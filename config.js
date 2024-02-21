@@ -1,6 +1,6 @@
 module.exports = {
     discord: {
-        token: 'MTIwOTUyNzcyOTEwNDM1OTQyNA.GuxOCb.BLAFADV5FqSU3p-CVDACUDfDvh56O3Cqrur_JA',
+        token: '',
         prefix: '!'
     },
 
